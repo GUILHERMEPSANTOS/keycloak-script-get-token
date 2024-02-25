@@ -1,2 +1,1 @@
-
-Authorization Code Flow
+**Authorization Code Flow**
